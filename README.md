@@ -2,4 +2,4 @@
 
 ENGG 233 Final Project 
 
-Parking Lot Simulator programmed using Processing
+Parking Lot Simulator programmed using Processing.
